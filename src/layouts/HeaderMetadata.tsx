@@ -25,7 +25,7 @@ export default function HeaderMetadata(): React.JSX.Element {
 
       <link
         rel="icon"
-        href="/papikon.ico"
+        href="/favicon.ico"
       />
     </Head>
   );
