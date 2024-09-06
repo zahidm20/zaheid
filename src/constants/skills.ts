@@ -139,6 +139,12 @@ export const skillList: Skill[] = [
     level: 'Intermediate',
     description: 'Express.js is a lightweight and flexible web framework for Node.js that makes it easy to develop web applications or APIs.',
   },
+  {
+    skillIcon: '/assets/svg/kafka.svg',
+    title: 'Kafka',
+    level: 'Basic',
+    description: 'Kafka is primarily used to build real-time streaming data networks and applications that adapt to data streams. It combines messaging, storage, and stream processing to enable the storage and analysis of historical and real-time data.',
+  },
 ];
 
 export const toolList: Skill[] = [
@@ -178,4 +184,29 @@ export const toolList: Skill[] = [
     level: 'Basic',
     description: 'Git is a distributed version control system that tracks changes in any set of computer files, usually used for coordinating work among programmers collaboratively developing source code during software development.',
   },
+  {
+    skillIcon: '/assets/svg/docker.svg',
+    title: 'Docker',
+    level: 'Basic',
+    description: 'Docker provides the ability to package and run applications in loosely-coupled environments called containers.',
+  },
+  {
+    skillIcon: '/assets/svg/postman.svg',
+    title: 'Postman',
+    level: 'Basic',
+    description: 'Postman is a computer application used for API testing. Postman sends API requests to a web server and receives a response, whatever it may be.',
+  },
+  {
+    skillIcon: '/assets/svg/tableplus.svg',
+    title: 'TablePlus',
+    level: 'Intermediate',
+    description: 'Postman is a computer application used for API testing. Postman sends API requests to a web server and receives a response, whatever it may be.',
+  },
+  {
+    skillIcon: '/assets/svg/kafka.svg',
+    title: 'Kafka',
+    level: 'Basic',
+    description: 'Kafka is primarily used to build real-time streaming data networks and applications that adapt to data streams. It combines messaging, storage, and stream processing to enable the storage and analysis of historical and real-time data.',
+  },
+
 ];
