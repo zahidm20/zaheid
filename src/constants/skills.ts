@@ -208,5 +208,4 @@ export const toolList: Skill[] = [
     level: 'Basic',
     description: 'Kafka is primarily used to build real-time streaming data networks and applications that adapt to data streams. It combines messaging, storage, and stream processing to enable the storage and analysis of historical and real-time data.',
   },
-
 ];
