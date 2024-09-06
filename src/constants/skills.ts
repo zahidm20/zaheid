@@ -127,6 +127,18 @@ export const skillList: Skill[] = [
     level: "Basic",
     description: "Vue.js is a progressive JavaScript framework for building user interfaces, known for its simplicity and flexibility.",
   },
+  {
+    skillIcon: "/assets/svg/nest js.svg",
+    title: "nest.js",
+    level: "Intermediate",
+    description: "Vue.js is a progressive JavaScript framework for building user interfaces, known for its simplicity and flexibility.",
+  },
+  {
+    skillIcon: "/assets/svg/express.svg",
+    title: "express",
+    level: "Intermediate",
+    description: "Vue.js is a progressive JavaScript framework for building user interfaces, known for its simplicity and flexibility.",
+  },
 ];
 
 export const toolList: Skill[] = [
