@@ -356,4 +356,30 @@ export const portfolioList: Portfolio[] = [
       },
     ],
   },
+  {
+    title: 'Thrift-id',
+    imageThumbnail: '/assets/images/project-18.webp',
+    description:
+      'Thrift-id is a website that I created using HTML, Tailwind, JavaScript, and CSS technologies. Discover Thrift ID, your one-stop destination for thrifted items. With a comprehensive collection of thrifted items, we offer a unique shopping experience that combines affordability and style. Discover hidden gems, from fashionable clothing to beautiful home decor, all at unbeatable prices. Embrace the art of thrifting and join our community of savvy shoppers. Thrift ID, where budget meets style.',
+    livePreviewURL: 'https://thriftid.netlify.app/',
+    repositoryURL: 'https://github.com/',
+    techStack: [
+      {
+        tech: 'HTML',
+        logo: '/assets/svg/html.svg',
+      },
+      {
+        tech: 'Tailwind',
+        logo: '/assets/svg/tailwind.svg',
+      },
+      {
+        tech: 'JavaScript',
+        logo: '/assets/svg/javascript.svg',
+      },
+      {
+        tech: 'CSS',
+        logo: '/assets/svg/css.svg',
+      },
+    ],
+  },
 ];
