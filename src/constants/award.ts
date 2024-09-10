@@ -2,7 +2,7 @@ import type { Award } from '@/types';
 
 export const awardList: Award[] = [
   {
-    award: '5 Th Winner Web Design Competition',
+    award: '3 Th Winner Web Design Competition',
     place: 'Vocational School',
     years: 'September - 2023',
   },

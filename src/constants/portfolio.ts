@@ -51,6 +51,32 @@ export const portfolioList: Portfolio[] = [
     ],
   },
   {
+    title: 'Thrift-id',
+    imageThumbnail: '/assets/images/project-18.webp',
+    description:
+      'Thrift-id is a website that I created using HTML, Tailwind, JavaScript, and CSS technologies. Discover Thrift ID, your one-stop destination for thrifted items. With a comprehensive collection of thrifted items, we offer a unique shopping experience that combines affordability and style. Discover hidden gems, from fashionable clothing to beautiful home decor, all at unbeatable prices. Embrace the art of thrifting and join our community of savvy shoppers. Thrift ID, where budget meets style.',
+    livePreviewURL: 'https://thriftid.netlify.app/',
+    repositoryURL: 'https://github.com/',
+    techStack: [
+      {
+        tech: 'HTML',
+        logo: '/assets/svg/html.svg',
+      },
+      {
+        tech: 'Tailwind',
+        logo: '/assets/svg/tailwind.svg',
+      },
+      {
+        tech: 'JavaScript',
+        logo: '/assets/svg/javascript.svg',
+      },
+      {
+        tech: 'CSS',
+        logo: '/assets/svg/css.svg',
+      },
+    ],
+  },
+  {
     title: 'My Personal Portfolio',
     imageThumbnail: '/assets/images/personal.png',
     description:
@@ -100,7 +126,7 @@ export const portfolioList: Portfolio[] = [
     description:
       'Petabyte Landing Page is a website that I created using HTML, CSS, and Bootstrap. This website displays information about a software house that operates in the field of education, such as application, website, and educational game creation services. This website also has portfolio, testimonial, and consultation features that make it easy for visitors to know the quality and excellence of this software house.',
     livePreviewURL: 'https://petabyte-landing-page.vercel.app/',
-    repositoryURL: 'https://github.com/',
+    repositoryURL: 'https://github.com/zahidm20/petabyte-landing-page',
     techStack: [
       {
         tech: 'HTML',
@@ -126,7 +152,7 @@ export const portfolioList: Portfolio[] = [
     description:
       'HooBank is a website that I created using React JS, Tailwind CSS, and Vite. This website displays information about a company that operates in the field of financial digitalization, such as payment, transfer, and online investment services. This website also has security, convenience, and ease features that make it easy for users to manage their finances digitally.',
     livePreviewURL: 'https://hoobank-landing-page-rouge.vercel.app/',
-    repositoryURL: 'https://github.com/',
+    repositoryURL: 'https://github.com/zahidm20/HooBank-Landing-Page',
     techStack: [
       {
         tech: 'React JS',
@@ -274,7 +300,7 @@ export const portfolioList: Portfolio[] = [
     description:
       'Coffee is a website that I created using HTML, CSS, and JavaScript. This website is about a cafe that serves delicious coffee, tea, and pastries. This website allows users to view the menu, location, and hours of the cafe. This website also has features such as online ordering, loyalty program, and feedback. This website aims to attract and satisfy customers with the quality and variety of the cafe’s products and services.',
     livePreviewURL: 'https://coffee-landing-page-xi.vercel.app/',
-    repositoryURL: 'https://github.com/',
+    repositoryURL: 'https://github.com/zahidm20/Coffee-Landing-Page',
     techStack: [
       {
         tech: 'HTML',
@@ -335,12 +361,12 @@ export const portfolioList: Portfolio[] = [
     ],
   },
   {
-    title: 'Berotot Landing Page',
+    title: 'Muscular Landing Page',
     imageThumbnail: '/assets/images/project-15.webp',
     description:
       'Berotot is a website that I created using HTML, CSS, and JavaScript technologies. This website is about a gym that offers various fitness programs, equipment, and trainers. This website allows users to view the gym’s facilities, schedule, and membership plans. This website also has features such as online booking, payment, and feedback. This website aims to attract and motivate customers with the quality and diversity of the gym’s services.',
     livePreviewURL: 'https://berotot-landing-page.vercel.app/',
-    repositoryURL: 'https://github.com/',
+    repositoryURL: 'https://github.com/zahidm20/brtotot-landing-page',
     techStack: [
       {
         tech: 'HTML',
@@ -353,32 +379,6 @@ export const portfolioList: Portfolio[] = [
       {
         tech: 'JavaScript',
         logo: '/assets/svg/javascript.svg',
-      },
-    ],
-  },
-  {
-    title: 'Thrift-id',
-    imageThumbnail: '/assets/images/project-18.webp',
-    description:
-      'Thrift-id is a website that I created using HTML, Tailwind, JavaScript, and CSS technologies. Discover Thrift ID, your one-stop destination for thrifted items. With a comprehensive collection of thrifted items, we offer a unique shopping experience that combines affordability and style. Discover hidden gems, from fashionable clothing to beautiful home decor, all at unbeatable prices. Embrace the art of thrifting and join our community of savvy shoppers. Thrift ID, where budget meets style.',
-    livePreviewURL: 'https://thriftid.netlify.app/',
-    repositoryURL: 'https://github.com/',
-    techStack: [
-      {
-        tech: 'HTML',
-        logo: '/assets/svg/html.svg',
-      },
-      {
-        tech: 'Tailwind',
-        logo: '/assets/svg/tailwind.svg',
-      },
-      {
-        tech: 'JavaScript',
-        logo: '/assets/svg/javascript.svg',
-      },
-      {
-        tech: 'CSS',
-        logo: '/assets/svg/css.svg',
       },
     ],
   },
