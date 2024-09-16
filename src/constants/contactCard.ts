@@ -15,7 +15,7 @@ export const contactCardList: ContactCard[] = [
   },
   {
     title: "Telegram",
-    contactVia: "+62 8991622164",
+    contactVia: "+62 82298774625",
     contactLink: "https://t.me/+6282298774625",
     cardIcon: "/assets/svg/telegram.svg",
   },
