@@ -2,29 +2,6 @@ import type { Portfolio } from '@/types';
 
 export const portfolioList: Portfolio[] = [
   {
-    title: 'KHASS E-Ticketing',
-    imageThumbnail: '/assets/images/project-16.webp',
-    description:
-      'KHASS is an e-ticketing website for selling theater tickets and promoting theaters. It was created using Next JS, Tailwind, and Express JS with my team. This website allows users to discover and purchase tickets for various theater performances. KHASS showcases information about different theaters, their upcoming shows, ticket availability, pricing, and more. The website provides a convenient platform for theaters to promote their shows and engage with potential audience members. Overall, KHASS aims to connect theater-goers with show tickets in an intuitive online marketplace.',
-
-    livePreviewURL: 'https://khass.my.id/',
-    repositoryURL: '',
-    techStack: [
-      {
-        tech: 'Next JS',
-        logo: '/assets/svg/next js.svg',
-      },
-      {
-        tech: 'Tailwind',
-        logo: '/assets/svg/tailwind.svg',
-      },
-      {
-        tech: 'Express JS',
-        logo: '/assets/svg/express.svg',
-      },
-    ],
-  },
-  {
     title: 'Thrift-id',
     imageThumbnail: '/assets/images/project-18.webp',
     description:
@@ -47,28 +24,6 @@ export const portfolioList: Portfolio[] = [
       {
         tech: 'CSS',
         logo: '/assets/svg/css.svg',
-      },
-    ],
-  },
-  {
-    title: 'My Personal Portfolio',
-    imageThumbnail: '/assets/images/personal.png',
-    description:
-      'This is a personal branding project that I created using Next JS, Tailwind CSS, and Framer Motion. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.',
-    livePreviewURL: 'https://zahed.vercel.app/',
-    repositoryURL: 'https://github.com/',
-    techStack: [
-      {
-        tech: 'Next JS',
-        logo: '/assets/svg/next js.svg',
-      },
-      {
-        tech: 'Tailwind',
-        logo: '/assets/svg/tailwind.svg',
-      },
-      {
-        tech: 'Framer Motion',
-        logo: '/assets/svg/framer motion.svg',
       },
     ],
   },
@@ -161,12 +116,12 @@ export const portfolioList: Portfolio[] = [
     ],
   },
   {
-    title: 'Twitter Clone',
-    imageThumbnail: '/assets/images/project-06.webp',
+    title: 'Expedition',
+    imageThumbnail: '/assets/images/expedition.png',
     description:
-      'This is a Twitter clone that I created using Next JS, Typescript, and Tailwind CSS for learning purposes. This website allows users to create, like, and retweet posts from other users. This website also has features such as authentication. This website aims to show my proficiency in using Next JS, Typescript, and Tailwind CSS to create a dynamic and responsive web application.',
-    livePreviewURL: 'https://twitter-web-clone-mauve.vercel.app/',
-    repositoryURL: 'https://github.com/zahidm20/web-twitter',
+      'Expedition is a website that I built using Next.js with TypeScript and integrated with modern technologies such as Shadcn, TailwindCSS, Swiper, and Framer Motion. This website offers a fun experience for users to explore various interesting tourist destinations.',
+    livePreviewURL: 'https://myexpedition.vercel.app/',
+    repositoryURL: 'https://github.com/zahidm20/Expedition',
     techStack: [
       {
         tech: 'Next JS',
@@ -179,20 +134,6 @@ export const portfolioList: Portfolio[] = [
       {
         tech: 'TypeScript',
         logo: '/assets/svg/typescript.svg',
-      },
-    ],
-  },
-  {
-    title: 'YoDoo',
-    imageThumbnail: '/assets/images/project-07.webp',
-    description:
-      'YoDoo is a website that I created using React JS. This website is a simple to do list application. This website allows users to add, edit, delete, and mark as done their tasks. This website aims to help users manage their daily activities and goals in an easy and fun way.',
-    livePreviewURL: 'https://yodoo.vercel.app/',
-    repositoryURL: 'https://github.com/zahidm20/yadoo',
-    techStack: [
-      {
-        tech: 'React JS',
-        logo: '/assets/svg/react.svg',
       },
     ],
   },
@@ -211,6 +152,29 @@ export const portfolioList: Portfolio[] = [
       {
         tech: 'Tailwind',
         logo: '/assets/svg/tailwind.svg',
+      },
+    ],
+  },
+  {
+    title: 'KHASS E-Ticketing',
+    imageThumbnail: '/assets/images/project-16.webp',
+    description:
+      'KHASS is an e-ticketing website for selling theater tickets and promoting theaters. It was created using Next JS, Tailwind, and Express JS with my team. This website allows users to discover and purchase tickets for various theater performances. KHASS showcases information about different theaters, their upcoming shows, ticket availability, pricing, and more. The website provides a convenient platform for theaters to promote their shows and engage with potential audience members. Overall, KHASS aims to connect theater-goers with show tickets in an intuitive online marketplace.',
+
+    livePreviewURL: 'https://khass.my.id/',
+    repositoryURL: '',
+    techStack: [
+      {
+        tech: 'Next JS',
+        logo: '/assets/svg/next js.svg',
+      },
+      {
+        tech: 'Tailwind',
+        logo: '/assets/svg/tailwind.svg',
+      },
+      {
+        tech: 'Express JS',
+        logo: '/assets/svg/express.svg',
       },
     ],
   },
@@ -379,6 +343,64 @@ export const portfolioList: Portfolio[] = [
       {
         tech: 'JavaScript',
         logo: '/assets/svg/javascript.svg',
+      },
+    ],
+  },
+  {
+    title: 'My Personal Portfolio',
+    imageThumbnail: '/assets/images/personal.png',
+    description:
+      'This is a personal branding project that I created using Next JS, Tailwind CSS, and Framer Motion. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.',
+    livePreviewURL: 'https://zahed.vercel.app/',
+    repositoryURL: 'https://github.com/',
+    techStack: [
+      {
+        tech: 'Next JS',
+        logo: '/assets/svg/next js.svg',
+      },
+      {
+        tech: 'Tailwind',
+        logo: '/assets/svg/tailwind.svg',
+      },
+      {
+        tech: 'Framer Motion',
+        logo: '/assets/svg/framer motion.svg',
+      },
+    ],
+  },
+  {
+    title: 'YoDoo',
+    imageThumbnail: '/assets/images/project-07.webp',
+    description:
+      'YoDoo is a website that I created using React JS. This website is a simple to do list application. This website allows users to add, edit, delete, and mark as done their tasks. This website aims to help users manage their daily activities and goals in an easy and fun way.',
+    livePreviewURL: 'https://yodoo.vercel.app/',
+    repositoryURL: 'https://github.com/zahidm20/yadoo',
+    techStack: [
+      {
+        tech: 'React JS',
+        logo: '/assets/svg/react.svg',
+      },
+    ],
+  },
+  {
+    title: 'Twitter Clone',
+    imageThumbnail: '/assets/images/project-06.webp',
+    description:
+      'This is a Twitter clone that I created using Next JS, Typescript, and Tailwind CSS for learning purposes. This website allows users to create, like, and retweet posts from other users. This website also has features such as authentication. This website aims to show my proficiency in using Next JS, Typescript, and Tailwind CSS to create a dynamic and responsive web application.',
+    livePreviewURL: 'https://twitter-web-clone-mauve.vercel.app/',
+    repositoryURL: 'https://github.com/zahidm20/web-twitter',
+    techStack: [
+      {
+        tech: 'Next JS',
+        logo: '/assets/svg/next js.svg',
+      },
+      {
+        tech: 'Tailwind',
+        logo: '/assets/svg/tailwind.svg',
+      },
+      {
+        tech: 'TypeScript',
+        logo: '/assets/svg/typescript.svg',
       },
     ],
   },
